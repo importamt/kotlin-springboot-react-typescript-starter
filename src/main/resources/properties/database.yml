@@ -1,0 +1,12 @@
+spring:
+  datasource-rino:
+    jdbcUrl: jdbc:postgresql://210.97.42.246:10051/RINO
+    username: RINO
+    password: rino1234
+    driver-class-name: org.postgresql.Driver
+
+#  datasource-xeus:
+#    jdbcUrl: jdbc:postgresql://localhost:5432/xeus_seoul_nowon
+#    username: rino
+#    password: rinoadmin
+#    driver-class-name: org.postgresql.Driver

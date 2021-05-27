@@ -1,0 +1,6 @@
+.gradle/
+/build/
+dst.iml
+
+src/main/web/build/
+src/main/web/node_modules/

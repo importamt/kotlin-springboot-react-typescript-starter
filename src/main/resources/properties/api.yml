@@ -1,0 +1,12 @@
+dst:
+  apis:
+    oms:
+      url: http://localhost:11910/oms
+      subUrls:
+        user: /api/user/info
+        logout: /api/user/logout
+        loginPage: /login/getLoginView
+        extendToken: /api/user/extendToken
+      headers:
+        systemKey: OMS
+        secret: 1il9xPET45raaqfBZDssup
